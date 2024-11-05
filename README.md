@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @GayuViju
+- My name is Vijayalakshmi S
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different Projects
+- I'm Currently Stuck in learning phases
+- Welcome to my learning World
 - 📫 How to reach me sg10gayatri@gmail.com
   
 - 😄 Pronouns: ...
