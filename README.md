@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on different Projects
-- I'm Currently Stuck in learning phases
+- I'm Currently Stuck in learning loop
 - Welcome to my learning World
 - 📫 How to reach me sg10gayatri@gmail.com
   
