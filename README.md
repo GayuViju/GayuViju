@@ -6,6 +6,7 @@
 - Languages: C, C++, Java, JavaScript,Python
 - Tools: Git & GitHub, VS Code
 - Web: HTML, CSS, JS
+
 -Learning:JS,..........
 - 💞️ I’m looking to collaborate on different Projects
 - I'm Currently Stuck in learning loop
