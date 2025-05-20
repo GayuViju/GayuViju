@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @GayuViju
 - My name is Vijayalakshmi S
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently learning CSE, Passionate about software field.
+### 🛠️ Tech Stack
+- Languages: C, C++, Java, JavaScript,Python
+- Tools: Git & GitHub, VS Code
+- Web: HTML, CSS, JS
+-Learning:JS,..........
 - 💞️ I’m looking to collaborate on different Projects
 - I'm Currently Stuck in learning loop
 - Welcome to my learning World
