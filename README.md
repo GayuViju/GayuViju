@@ -7,7 +7,7 @@
 - Tools: Git & GitHub, VS Code
 - Web: HTML, CSS, JS
 
--Learning:JS,..........
+ -Learning:JS,PHP.......
 - 💞️ I’m looking to collaborate on different Projects
 - I'm Currently Stuck in learning loop
 - Welcome to my learning World
