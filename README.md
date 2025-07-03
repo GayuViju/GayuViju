@@ -1,22 +1,39 @@
-- 👋 Hi, I’m @GayuViju
-- My name is Vijayalakshmi S
-- 👀 I’m interested in Software
-- 🌱 I’m currently learning CSE, Passionate about software field.
-### 🛠️ Tech Stack
-- Languages: C, C++, Java, JavaScript,Python
-- Tools: Git & GitHub, VS Code
-- Web: HTML, CSS, JS
+# 👋 Hi there, I'm Vijayalakshmi S (@GayuViju)
 
- -Learning:JS,PHP.......
-- 💞️ I’m looking to collaborate on different Projects
-- I'm Currently Stuck in learning loop
-- Welcome to my learning World
-- 📫 How to reach me sg10gayatri@gmail.com
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my learning world! 🌱  
+I'm a passionate **Computer Science Engineering** student with a strong interest in building a career in the **software development** field.
 
-<!---
-GayuViju/GayuViju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Currently pursuing B.Tech in Computer Science and Engineering  
+- 👀 Interested in Full Stack Development, Machine Learning, and Open Source  
+- 🔄 Currently stuck in the learning loop — but staying curious and persistent!  
+- 💬 Always open to collaboration on beginner-friendly or impactful projects  
+- 📫 Reach me at **sg10gayatri@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`C` `C++` `Java` `JavaScript` `Python`
+
+**Web Development:**  
+`HTML` `CSS` `JavaScript` (Learning `PHP`)
+
+**Tools & Platforms:**  
+`Git` `GitHub` `VS Code`
+
+---
+
+## 💡 Fun & Extra
+
+- 😄 **Pronouns:** She/Her  
+- ⚡ **Fun fact:** I often find myself debugging more than coding, but that's where the real learning happens!
+
+---
+
+> 🌟 *"Still learning, still growing — one commit at a time."*
+
