@@ -7,7 +7,7 @@ I'm a passionate **Computer Science Engineering** student with a strong interest
 
 ## 👩‍💻 About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science and Engineering  
+- 🎓 Graduated B.Tech in Computer Science and Engineering with 8.73 CGPA  
 - 👀 Interested in Full Stack Development, Machine Learning, and Open Source  
 - 🔄 Currently stuck in the learning loop — but staying curious and persistent!  
 - 💬 Always open to collaboration on beginner-friendly or impactful projects  
