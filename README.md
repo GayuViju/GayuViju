@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vijayalakshmi S (@GayuViju)
+# 👋 Hi there, I'm Vijayalakshmi S 
 
 Welcome to my learning world! 🌱  
 I'm a passionate **Computer Science Engineering** student with a strong interest in building a career in the **software development** field.
